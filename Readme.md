@@ -1,3 +1,3 @@
 # Git
 
-- hello there
+- complete git and GitHub course
